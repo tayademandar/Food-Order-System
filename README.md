@@ -6,5 +6,6 @@ This is how the GUI looks like:
 
 
 This is the output after filling the input fields of different food items:
-![alt t![Output](https://user-images.githubusercontent.com/55328883/152920725-d7fea9df-ad1f-4970-ac26-8922fb504712.png)
+
+![Output](https://user-images.githubusercontent.com/55328883/152920780-d6728f3c-a46d-416a-9a5d-8f8820d2c3c5.png)
 
